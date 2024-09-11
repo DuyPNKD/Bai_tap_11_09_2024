@@ -1,0 +1,14 @@
+D:\CSharp\Bai_tap\Bai_tap\obj\Debug\net8.0\Bai_tap.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Bai_tap\Bai_tap\obj\Debug\net8.0\Bai_tap.AssemblyInfoInputs.cache
+D:\CSharp\Bai_tap\Bai_tap\obj\Debug\net8.0\Bai_tap.AssemblyInfo.cs
+D:\CSharp\Bai_tap\Bai_tap\obj\Debug\net8.0\Bai_tap.csproj.CoreCompileInputs.cache
+D:\CSharp\Bai_tap\Bai_tap\bin\Debug\net8.0\Bai_tap.exe
+D:\CSharp\Bai_tap\Bai_tap\bin\Debug\net8.0\Bai_tap.deps.json
+D:\CSharp\Bai_tap\Bai_tap\bin\Debug\net8.0\Bai_tap.runtimeconfig.json
+D:\CSharp\Bai_tap\Bai_tap\bin\Debug\net8.0\Bai_tap.dll
+D:\CSharp\Bai_tap\Bai_tap\bin\Debug\net8.0\Bai_tap.pdb
+D:\CSharp\Bai_tap\Bai_tap\obj\Debug\net8.0\Bai_tap.dll
+D:\CSharp\Bai_tap\Bai_tap\obj\Debug\net8.0\refint\Bai_tap.dll
+D:\CSharp\Bai_tap\Bai_tap\obj\Debug\net8.0\Bai_tap.pdb
+D:\CSharp\Bai_tap\Bai_tap\obj\Debug\net8.0\Bai_tap.genruntimeconfig.cache
+D:\CSharp\Bai_tap\Bai_tap\obj\Debug\net8.0\ref\Bai_tap.dll
